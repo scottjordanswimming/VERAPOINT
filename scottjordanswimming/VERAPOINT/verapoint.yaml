@@ -467,7 +467,7 @@ paths:
     get:
       tags:
       - user
-      summary: Logs user into the system
+      summary: LOGGY user into the system
       operationId: loginUser
       parameters:
       - name: username
